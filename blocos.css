@@ -1,0 +1,39 @@
+#quadrado1{
+    width: 22%;
+    height: 50%;
+    background: red;
+    display: inline-block;
+}
+
+#quadrado2{
+    width: 22%;
+    height: 50%;
+    background: black;
+    display: inline-block;
+}
+
+#quadrado3{
+    width: 22%;
+    height: 50%;
+    background: green;
+    display: inline-block;
+}
+
+#quadrado4{
+    width: 22%;
+    height: 50%;
+    background: yellow;
+    display: inline-block;
+}
+
+.corpo{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    background: gray;
+    height: auto;
+}
+
+
+
+
